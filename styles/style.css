@@ -79,6 +79,20 @@ a {
   font-weight: 700;
   text-align: left;
 }
+/* this is for all */
+.description {
+  color: rgb(58, 58, 58);
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: left;
+}
+.banner-btn {
+  color: #fff;
+  border-radius: 1.8rem;
+  background: rgb(224, 44, 109);
+  padding: 15px 20px;
+  border: none;
+}
 
 .banner-img {
   background-image: url(../images/Circle\ design.svg);
